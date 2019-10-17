@@ -8,4 +8,3 @@
 
 • Work closely with BI team to design, implement and test quality code by applying best development practices and documentation
 
-• Utilize CSS Grid properties to evenly space elements within the landing page
